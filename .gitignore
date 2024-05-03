@@ -1,0 +1,6 @@
+.idea
+myenv
+allure-results
+docker-results
+__pycache__
+.pytest_cache
